@@ -10,6 +10,7 @@
 创作日期：2020年9月10日
 CSDN博客主页：https://blog.csdn.net/LTAO427
 CSDN博客文章链接：https://blog.csdn.net/LTAO427/article/details/108524627
+github地址：https://github.com/chengyun427/Proxy_pool
 """
 import os
 import time
