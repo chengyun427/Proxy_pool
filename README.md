@@ -1,6 +1,6 @@
 
-# Python爬虫实战之：爬取快代理ip数据构建代理池（简版）
-**CSDN博客：** [Python爬虫实战之：爬取快代理ip数据构建代理池（简版）](https://blog.csdn.net/LTAO427/article/details/108524627).
+# Python爬虫实战之：快代理搭建IP代理池（简版）
+**CSDN博客：** [Python爬虫实战之：快代理搭建IP代理池（简版）](https://blog.csdn.net/LTAO427/article/details/108524627).
 
 
 # 前言
